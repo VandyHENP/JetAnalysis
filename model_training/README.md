@@ -9,4 +9,5 @@ Load whichever model and datasets needed and test how the models predicitons on 
 2. model_unrotated.pth is trained on unrotated sets
 3. model_rotated.pth is trained on rotated sets
 
+# Running Scripts
 ACCRE does not have Torch installed so these have to be run on Rithya's Machine. I edited the scripts using "nano testing_models.py" and then ran it using "python3 testing_models.py", but there's probably a way to open the files in an IDE I just did not. 
