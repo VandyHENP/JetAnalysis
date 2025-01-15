@@ -1,5 +1,5 @@
 # Retraining Model:
-Feed datasets from Pythia script into model_training and specify outpath for the new model (training script credits to Umar)
+Feed datasets from Pythia or rotating_datasets into model_training and specify outpath for the new model (training script credits to Umar)
 
 # Testing Models:
 Load whichever model and datasets needed and test how the models predicitons on different datasets.
